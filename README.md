@@ -1,5 +1,6 @@
 # 🛠 Useful postman random function for tests
 🛠 Script to generate random global variable to use in request params, headers, body, etc
+
 ![Postman screenshot](postman.gif)
 
 ## Step to generate random global variable for postman test
