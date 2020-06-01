@@ -9,7 +9,7 @@ Script to generate random global variable to use in request params, headers, bod
 5. go to the **body** tab of the request that you want to use global variable
 6. value put {{$yourGlobalVariable}}
 
-## function list
+## Function list
 function | description | sample
 --- | --- | ---
 randNumber(length) | generate random number by length | length = 1 will generate number from 0 to 9
