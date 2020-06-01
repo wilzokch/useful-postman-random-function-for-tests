@@ -1,4 +1,5 @@
-# useful-postman-random-function-for-tests
+# Useful postman random function for tests
+Script to generate random global variable to use in request params, headers, body, etc
 
 ## Step to generate random global variable for postman test
 1. create a request
