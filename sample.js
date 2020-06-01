@@ -1,4 +1,4 @@
-pm.globals.set("$randomStateId", randFixNumberByRange(1, 14));
+pm.globals.set("$randomStateId", randNumberByRange(1, 14));
 pm.globals.set("$randomGender", randChoice('M/F'));
 pm.globals.set("$randomPostCode", randFixNumber(5));
 
